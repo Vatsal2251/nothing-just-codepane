@@ -1,7 +1,7 @@
 # Getting Started with nothing just codepane.
 
 ### Demo site:
-https://nothing-just-codepane.netlify.app/
+https://nothing-just-codepen.netlify.app/
 
 ## Available Scripts
 
